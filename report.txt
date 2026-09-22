@@ -1,4 +1,4 @@
-GitHub Lab Assignment
+Строка изменена Автором Б.//////
 In this lab, we will learn how to clone repositories and push changes to them on Git.
 
 Цель работы: 
